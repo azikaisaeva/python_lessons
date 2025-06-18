@@ -1,0 +1,138 @@
+
+body {
+  margin: 0;
+
+}
+.yellow500 {
+    background-color: #ffdc22;
+    height: 500px;
+}
+
+.middle {
+    margin-top: 0;
+    background-color: #1e1d37;
+    height: 1000px
+    text-align: center;
+    padding: 60px 20px;
+    color: #fff;
+}
+
+.top {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.portfolio-label {
+  position: absolute;
+  font-size: 48px;
+  font-weight: bold;
+  text-transform: uppercase;
+  color: #fff;
+  padding: 8px 20px;
+  margin-bottom: 40px;
+  margin-left: 90px;
+}
+
+.photo {
+    position: relative;
+    top: 50px;
+    width: 300px;
+}
+
+ h2 {
+      margin: 0;
+      position: center;
+      font-size: 48px;
+      font-weight: bold;
+      text-transform: uppercase;
+      color: #fff;
+      padding: 8px 20px;
+      margin-left: 100px;
+     }
+.middle p1{
+    margin-bottom: 0;
+    margin-left: 120px;
+    font-size: 25px
+}
+
+.middle p {
+     margin-top: 20px;
+     margin-left: 120px;
+     font-weight: bold;
+}
+
+.box {
+  background-color: #ffdc22;
+  width: 200px;
+  margin-top: 20px;
+  padding: 20px;
+  border: 2px solid #333;
+  margin-left: 120px;
+  display: flex;
+}
+.text-box {
+     display: flex;
+     margin-top: 5px;
+     margin-left: 120px
+}
+.text {
+    display: inline-box;
+    background-color: #f9df1d;
+    color: #000000;
+    padding: 20px 50px;
+    font-weight: bold;
+    margin-top: 5px;
+}
+.text:hover {
+    background-color: #e6c800
+}
+.demo-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 10px;
+  padding: 20px;
+}
+
+.demo-grid img {
+  width: 100%;
+  height: auto;
+  display: block;
+  object-fit: cover;
+}
+
+p2 {
+    margin-top: 5px;
+    margin-left: 400px;
+
+}
+.text-box2 {
+     display: flex;
+     margin-top: 15px;
+     margin-left: 400px;
+}
+.text2 {
+    display: inline-box;
+    background-color: #f9df1d;
+    color: #000000;
+    padding: 20px 50px;
+    font-weight: bold;
+    margin-top: 15px;
+}
+.text2:hover {
+    background-color: #e6c800;
+}
+.bottom yellow500 {
+    margin-top: 0;
+    background-color: #1e1d37;
+    height: 2000px
+    text-align: center;
+    padding: 40px 20px;
+    color: #fff;
+}
+
+.background-color-grey {
+    background-color: #cacaca
+
+.demo-box {
+    width: 300px;
+}
